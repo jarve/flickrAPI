@@ -25,8 +25,8 @@ import com.flickr4java.flickr.test.TestInterface;
  *
  */
 public class Main {
-	static String apiKey = "***REMOVED***c";
-	static String sharedSecret = "***REMOVED***";
+	static String apiKey = "puppua";
+	static String sharedSecret = "noareal";
 	static HashSet<String> hs = new HashSet();
 	static MariaConnection mc = null;
 
